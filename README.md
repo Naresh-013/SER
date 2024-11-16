@@ -7,9 +7,13 @@ There are a set of 200 target words were spoken in the carrier phrase "Say the w
 # Libraries
 
 pandas
+
 matplotlib
+
 keras
+
 tensorflow
+
 librosa
 
 # Network
